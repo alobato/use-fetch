@@ -1,0 +1,28 @@
+{
+  "name": "@alobato/use-fetch",
+  "version": "1.0.0",
+  "description": "React hook for fetch",
+  "main": "index.js",
+  "repository": "https://github.com/alobato/use-fetch",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "fetch"
+  ],
+  "files": [
+    "index.*"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-test-renderer": "^16.8.0"
+  }
+}
